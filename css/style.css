@@ -165,6 +165,10 @@ table tr:nth-child(odd) {
 	margin-top: 40px;
 }
 
+.top-margin-15 {
+	margin-top: 15px;
+}
+
 .top-padding-10 {
 	padding-top: 10px;
 }
@@ -225,7 +229,6 @@ table tr:nth-child(odd) {
 }
 
 .c-form__input {
-	height: calc( 1.3em * 1 );
 	width: 90%;
 	font-size: 16px;
 	border: solid 1px #333;
@@ -245,7 +248,7 @@ table tr:nth-child(odd) {
 }
 
 textarea.c-form__input {
-	height: 160px;
+	height: 50px;
 }
 
 .c-form__submit {
